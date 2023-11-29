@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorszczurek&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorszczurek" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiktorszczurek" alt="wiktorszczurek" /></a> </p>
+
 - 🔭 I’m currently working on **work system application**
 
 - 🌱 I’m currently learning **C++ and Pascal**
@@ -15,6 +17,8 @@
 
 - 📫 How to reach me **wiktor.szczurek1@gmail.com**
 
+- ⚡ Fun fact **I have a particular fondness for night-time coding sessions. There's something about the quiet and solitude of the night that really fuels my creativity and focus when I'm in front of my computer.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wiktoroip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiktoroip" height="30" width="40" /></a>
@@ -22,7 +26,7 @@
 <a href="https://stackoverflow.com/users/21171891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21171891" height="30" width="40" /></a>
 <a href="https://fb.com/wiktor.szczurek.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wiktor.szczurek.9" height="30" width="40" /></a>
 <a href="https://instagram.com/_wiktorszczurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_wiktorszczurek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCpPM_MjxGJH9hkZqRXN5KrQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiktor7871" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/wiktor7871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiktor7871" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiktorszczurek&show_icons=true&locale=en&layout=compact" alt="wiktorszczurek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiktorszczurek&show_icons=true&locale=en" alt="wiktorszczurek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiktorszczurek&" alt="wiktorszczurek" /></p>
