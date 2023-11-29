@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/21171891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21171891" height="30" width="40" /></a>
 <a href="https://fb.com/wiktor.szczurek.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wiktor.szczurek.9" height="30" width="40" /></a>
 <a href="https://instagram.com/_wiktorszczurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_wiktorszczurek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wiktor7871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiktor7871" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpPM_MjxGJH9hkZqRXN5KrQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wiktor7871" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
