@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wiktoroip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiktoroip" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/wiktor-szczurek-3a686b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiktor-szczurek-3a686b279" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wiktor-szczurek-3a686b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiktor-szczurek-3a686b279" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21171891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21171891" height="30" width="40" /></a>
 <a href="https://fb.com/wiktor.szczurek.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wiktor.szczurek.9" height="30" width="40" /></a>
 <a href="https://instagram.com/_wiktorszczurek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_wiktorszczurek" height="30" width="40" /></a>
