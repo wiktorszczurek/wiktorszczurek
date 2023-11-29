@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
 <h3 align="center">IT student and young programmer</h3>
-<img align="right" alt="Code at night" width="400" src="https://pl.pinterest.com/pin/567523990538356835/"
+<img align="right" alt="Code at night" width="400" src="[https://pl.pinterest.com/pin/567523990538356835/](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorszczurek&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorszczurek" /> </p>
 
 - 🔭 I’m currently working on **work system application**
