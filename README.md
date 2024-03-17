@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **larger programming team projects**
 
-- 👨‍💻 All of my projects are available at [https://itisws.pl/#realizacje](https://itisws.pl/#realizacje)
-
 - 💬 Ask me about **python, php, html, css, c++, database, computer software**
 
 - 📫 How to reach me **wiktor.szczurek1@gmail.com**
