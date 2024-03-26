@@ -1,4 +1,4 @@
-<h1 align="center">I'm Wiktor</h1>
+<h1 align="center">I'm Wiktor 🙋‍♂️</h1>
 <h3 align="center">IT student, programmer and graphic designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorszczurek&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorszczurek" /> </p>
