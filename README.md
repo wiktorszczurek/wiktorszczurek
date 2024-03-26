@@ -1,19 +1,9 @@
-<h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">IT student and young programmer</h3>
+<h1 align="center">I'm Wiktor</h1>
+<h3 align="center">IT student, programmer and graphic designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiktorszczurek&label=Profile%20views&color=0e75b6&style=flat" alt="wiktorszczurek" /> </p>
 
-- 🔭 I’m currently working on **work system application**
-
-- 🌱 I’m currently learning **C++ and Pascal**
-
-- 👯 I’m looking to collaborate on **larger programming team projects**
-
-- 💬 Ask me about **python, php, html, css, c++, database, computer software**
-
 - 📫 How to reach me **wiktor.szczurek1@gmail.com**
-
-- ⚡ Fun fact **I have a particular fondness for night-time coding sessions. There's something about the quiet and solitude of the night that really fuels my creativity and focus when I'm in front of my computer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
